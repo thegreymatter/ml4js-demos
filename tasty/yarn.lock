@@ -3466,9 +3466,9 @@ inherits@2.0.3:
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
 ini@^1.3.4:
-  version "1.3.5"
-  resolved "http://repo.naturalint.com:8081/repository/NI-NPM/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 inline-style-prefixer@^3.0.6:
   version "3.0.8"
@@ -4090,9 +4090,9 @@ mkdirp@^0.5.1, mkdirp@~0.5.1:
   dependencies:
     minimist "0.0.8"
 
-ml5@^0.4.3:
+ml5@^0.4.2:
   version "0.4.3"
-  resolved "http://repo.naturalint.com:8081/repository/NI-NPM/ml5/-/ml5-0.4.3.tgz#d83c5a01dda221e7de08d1d7814c991b669c7058"
+  resolved "https://registry.yarnpkg.com/ml5/-/ml5-0.4.3.tgz#d83c5a01dda221e7de08d1d7814c991b669c7058"
   integrity sha512-6LVJkpTcSjAun4Q9achdESfiMs2HWjhOexXm8VM8x5elJ9SKf6P3LDv7C2/oSCfQD5qa8dD5UCP6Ejv6e8TBHQ==
   dependencies:
     "@magenta/sketch" "0.2.0"
