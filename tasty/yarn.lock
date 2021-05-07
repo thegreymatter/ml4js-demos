@@ -4090,9 +4090,9 @@ mkdirp@^0.5.1, mkdirp@~0.5.1:
   dependencies:
     minimist "0.0.8"
 
-ml5@^0.4.3:
+ml5@^0.4.2:
   version "0.4.3"
-  resolved "http://repo.naturalint.com:8081/repository/NI-NPM/ml5/-/ml5-0.4.3.tgz#d83c5a01dda221e7de08d1d7814c991b669c7058"
+  resolved "https://registry.yarnpkg.com/ml5/-/ml5-0.4.3.tgz#d83c5a01dda221e7de08d1d7814c991b669c7058"
   integrity sha512-6LVJkpTcSjAun4Q9achdESfiMs2HWjhOexXm8VM8x5elJ9SKf6P3LDv7C2/oSCfQD5qa8dD5UCP6Ejv6e8TBHQ==
   dependencies:
     "@magenta/sketch" "0.2.0"
@@ -6254,9 +6254,9 @@ typescript@^3.8.3:
   integrity sha512-MYlEfn5VrLNsgudQTVJeNaQFUAI7DkhnOjdpAp4T+ku1TfQClewlbSuTVHiA+8skNBgaf02TL/kLOvig4y3G8w==
 
 ua-parser-js@^0.7.18:
-  version "0.7.21"
-  resolved "http://repo.naturalint.com:8081/repository/NI-NPM/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
-  integrity sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
