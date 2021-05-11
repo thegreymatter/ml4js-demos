@@ -3923,9 +3923,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.13, lodash@^4.17.4:
-  version "4.17.15"
-  resolved "http://repo.naturalint.com:8081/repository/NI-NPM/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-symbols@^2.2.0:
   version "2.2.0"
@@ -4090,9 +4090,9 @@ mkdirp@^0.5.1, mkdirp@~0.5.1:
   dependencies:
     minimist "0.0.8"
 
-ml5@^0.4.3:
+ml5@^0.4.2:
   version "0.4.3"
-  resolved "http://repo.naturalint.com:8081/repository/NI-NPM/ml5/-/ml5-0.4.3.tgz#d83c5a01dda221e7de08d1d7814c991b669c7058"
+  resolved "https://registry.yarnpkg.com/ml5/-/ml5-0.4.3.tgz#d83c5a01dda221e7de08d1d7814c991b669c7058"
   integrity sha512-6LVJkpTcSjAun4Q9achdESfiMs2HWjhOexXm8VM8x5elJ9SKf6P3LDv7C2/oSCfQD5qa8dD5UCP6Ejv6e8TBHQ==
   dependencies:
     "@magenta/sketch" "0.2.0"
